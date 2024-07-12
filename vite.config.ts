@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react-swc';
 import basicSsl from '@vitejs/plugin-basic-ssl';
 
 export default defineConfig({
-  base: '/reactjs-template',
+  base: '/Test1',
   plugins: [
     // Используйте React dev server вместе с сборкой React приложения с помощью Vite.
     react(),
